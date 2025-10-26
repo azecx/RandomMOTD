@@ -6,6 +6,9 @@ Works on both [Folia](https://papermc.io/software/folia/) and [Paper/Spigot](htt
 Originally made for my server [Velocity](https://www.velocity.lat/).
 
 ## Example
+This is an example of the plugin in use on my own server [Velocity](https://velocity.lat):
+
+![Example](https://github.com/user-attachments/assets/2cff462b-e462-4bf3-838e-d5964b8353b3)
 
 ## Installation
 - Head over to [Releases](https://github.com/azecx/RandomMOTD/releases) and download the latest one.
