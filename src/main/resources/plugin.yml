@@ -1,0 +1,13 @@
+name: randomMOTD
+version: '1.0-SNAPSHOT'
+main: cx.aze.randomMOTD.RandomMOTD
+api-version: '1.21'
+folia-supported: true
+commands:
+  rmotd:
+    usage: /rmotd reload
+    description: Reload the Random MOTD plugin.
+permissions:
+  randommotd.reload:
+    description: Allow reloading the Random MOTD plugin.
+    default: op

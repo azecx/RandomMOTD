@@ -1,0 +1,3 @@
+welcome to my server!
+this is a motd!
+hello world!
